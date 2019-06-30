@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d6e92c43-b43e-41c5-bdae-96c6b348c07a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../My_ac/.idea/My_ac.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../My_ac/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../My_ac/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../My_ac/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../My_ac/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../My_ac/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../My_ac/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../My_ac/acgFun/src/components/bookCategory/bookCategory.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../My_ac/acgFun/src/components/findBookInfo/findBookInfo.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../My_ac/acgFun/src/components/forgetPassword.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../My_ac/acgFun/src/components/images/book01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../My_ac/acgFun/src/components/images/book02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../My_ac/acgFun/src/components/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../My_ac/acgFun/src/components/login.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../My_ac/acgFun/src/components/main/main.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../My_ac/acgFun/src/components/manageInfo/manage.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../My_ac/acgFun/src/components/notFound.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../My_ac/acgFun/src/components/register.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../My_ac/acgFun/src/components/user/userInfo.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/bookManageSystem.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/bin_www.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JS算法.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My_ac/acgFun/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../My_ac/acgFun/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My_ac/acgFun/build/webpack.base.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/../My_ac/acgFun/build/webpack.base.conf.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My_ac/acgFun/config/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../My_ac/acgFun/config/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My_ac/acgFun/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../My_ac/acgFun/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My_ac/acgFun/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../My_ac/acgFun/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My_ac/acgFun/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../My_ac/acgFun/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My_ac/acgFun/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../My_ac/acgFun/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My_ac/acgFun/src/components/HelloWorld.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My_ac/acgFun/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/../My_ac/acgFun/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My_ac/acgFun/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../My_ac/acgFun/src/router/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../canvas.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../paging.rar" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="280">
+              <caret line="59" column="34" selection-start-line="59" selection-start-column="34" selection-end-line="59" selection-end-column="34" />
+              <folding>
+                <element signature="e#844#1720#0" />
+                <element signature="e#2827#5165#0" />
+                <element signature="e#5230#6002#0" />
+                <element signature="e#6070#6866#0" />
+                <element signature="e#6936#9336#0" />
+                <element signature="e#9403#10114#0" />
+                <element signature="e#10180#11132#0" />
+                <element signature="e#11200#12637#0" />
+                <element signature="e#12699#13894#0" />
+                <element signature="e#13968#14685#0" />
+                <element signature="e#14757#15574#0" />
+                <element signature="e#15645#16375#0" />
+                <element signature="e#16446#17256#0" />
+                <element signature="e#17327#18067#0" />
+                <element signature="e#18144#18860#0" />
+                <element signature="e#18930#19464#0" />
+                <element signature="e#19539#20328#0" />
+                <element signature="e#20397#21019#0" />
+                <element signature="e#21090#21731#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>login</find>
+      <find>result</find>
+      <find>filePath</find>
+      <find>User</find>
+      <find>../data/db</find>
+      <find>req</find>
+      <find>console</find>
+      <find>update</find>
+      <find>getAllIdea</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/index.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1320" />
+    <option name="height" value="784" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="bookManageSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bookManageSystem" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="10.14.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../My_ac/acgFun" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
+    <property name="ts.external.directory.path" value="I:\WebStorm 2018.3.5\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="I:\myFuture\Byme\bookManageSystem\public\images" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Node.js.index.js">
+    <configuration name="index.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/index.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.index.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d6e92c43-b43e-41c5-bdae-96c6b348c07a" name="Default Changelist" comment="" />
+      <created>1561424756122</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561424756122</updated>
+      <workItem from="1561424758981" duration="409000" />
+      <workItem from="1561425194302" duration="11042000" />
+      <workItem from="1561510917764" duration="42028000" />
+      <workItem from="1561684039364" duration="2851000" />
+      <workItem from="1561708247865" duration="1174000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="57504000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1320" height="784" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16146646" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2876923" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3276923" />
+      <window_info anchor="bottom" id="TypeScript" order="11" weight="0.32923076" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/node_modules/mysql/index.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/global-types/node_modules/@types/serve-static/index.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="24" column="17" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/images/upload_ec217f0bd1764f44b44d8f8d2b19d721.jpg" />
+    <entry file="file://$PROJECT_DIR$/public/images/upload_141bc79df7103a31c29f51e0d1f4d7bd.jpg" />
+    <entry file="file://$PROJECT_DIR$/public/images/1561516650977.jpg" />
+    <entry file="file://$PROJECT_DIR$/public/images/1561517657371.jpg" />
+    <entry file="file://$PROJECT_DIR$/public/images/1561517777681.jpg" />
+    <entry file="file://$PROJECT_DIR$/public/images/1561517793148.jpg" />
+    <entry file="file://$PROJECT_DIR$/public/images/201716080103.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="59" column="34" selection-start-line="59" selection-start-column="34" selection-end-line="59" selection-end-column="34" />
+          <folding>
+            <element signature="e#844#1720#0" />
+            <element signature="e#2827#5165#0" />
+            <element signature="e#5230#6002#0" />
+            <element signature="e#6070#6866#0" />
+            <element signature="e#6936#9336#0" />
+            <element signature="e#9403#10114#0" />
+            <element signature="e#10180#11132#0" />
+            <element signature="e#11200#12637#0" />
+            <element signature="e#12699#13894#0" />
+            <element signature="e#13968#14685#0" />
+            <element signature="e#14757#15574#0" />
+            <element signature="e#15645#16375#0" />
+            <element signature="e#16446#17256#0" />
+            <element signature="e#17327#18067#0" />
+            <element signature="e#18144#18860#0" />
+            <element signature="e#18930#19464#0" />
+            <element signature="e#19539#20328#0" />
+            <element signature="e#20397#21019#0" />
+            <element signature="e#21090#21731#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
